@@ -97,14 +97,6 @@ Pizza-Sale-Excel-Dashboard
 └── README.md
 ```
 
----
-
-## 📷 Dashboard Preview
-
-*(Add a screenshot of your dashboard here)*
-
----
-
 ## 📚 Skills Demonstrated
 
 * Data Cleaning
